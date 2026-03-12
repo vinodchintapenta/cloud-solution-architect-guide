@@ -117,7 +117,7 @@ For each, use the 5-step framework. Start with requirements. Estimate scale. Dra
 
 ---
 
-> Swiss Re final round will have a whiteboarding session. This guide tells you exactly what to do, say, and draw.
+> final round will have a whiteboarding session. This guide tells you exactly what to do, say, and draw.
 
 ---
 
@@ -334,7 +334,7 @@ graph TD
 
 ---
 
-## 6. Swiss Re Specific Preparation
+## 6. Interviews Specific Preparation
 
 ### Expected Topics
 Based on the role (Shared Services, Azure + Alibaba):
