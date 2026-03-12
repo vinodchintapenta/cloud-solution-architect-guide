@@ -105,7 +105,7 @@ Identify 2-3 bottlenecks and propose solutions.
 
 ---
 
-### Swiss Re Specific — Likely Whiteboard Problems
+### Likely Whiteboard Problems
 
 Based on the role (Shared Services, Azure + Alibaba Cloud):
 
