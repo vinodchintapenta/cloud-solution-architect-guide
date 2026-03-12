@@ -5,7 +5,7 @@
 ## 🟢 Plain English Summary — Read This First
 
 ### What is this document about?
-The Swiss Re final round will include a whiteboarding session where you design a system on a whiteboard while the interviewer watches. This document tells you exactly what to do, what to say, what to draw, and how to handle tough questions.
+Cloud solution architect interviews include a whiteboarding session where you design a system on a whiteboard while the interviewer watches. This document tells you exactly what to do, what to say, what to draw, and how to handle tough questions.
 
 The most important thing: **never start drawing immediately**. Always spend 3-5 minutes asking clarifying questions first. This is what separates architects from developers.
 
